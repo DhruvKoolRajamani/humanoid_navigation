@@ -27,3 +27,6 @@ srv_gen/
 # SBPL output:
 debug.txt
 envdebug.txt
+
+# VSCODE
+.vscode/
