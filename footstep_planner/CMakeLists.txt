@@ -70,6 +70,7 @@ catkin_package(
 ################################################################################
 include_directories(
   include
+  include/footstep_planner
   ${catkin_INCLUDE_DIRS}
   ${OpenCV_INCLUDE_DIRS}
   ${SBPL_INCLUDE_DIRS}
